@@ -16,7 +16,7 @@ const words = {
     phrases: 
     {
       positive: ["would highly recommend"],
-      negative: ["waste of money", "wouldn't recommend"]
+      negative: ["waste of fucking money", "wouldn't recommend"]
     }
   }
 
