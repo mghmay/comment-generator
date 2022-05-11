@@ -38,6 +38,7 @@ const words = {
   ],
 };
 
+
 // array of sentences with missing words
 
 const sentences = [
